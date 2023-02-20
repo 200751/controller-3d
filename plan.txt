@@ -1,0 +1,5 @@
+- Telescoop met zoom controls en rotate controls
+Sterren en planeten 3D die procuderal gegenereerd worden.
+-Eventueel als er tijd over is sterrenbeelden toevoegen die je moet spotten en verzamelen
+
+
